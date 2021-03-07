@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   appchart:
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.926530938Z"
+    created: "2021-03-07T08:28:36.144353306Z"
+    description: A Helm chart for app
+    digest: 13f1f1be1cfce1af9021dbf7bf60a42d393d4978eba1317089844d3412ff816b
+    name: appchart
+    type: application
+    urls:
+    - https://brucorreia.github.io/charts/appchart-v5.0.0.tgz
+    version: v5.0.0
+  - apiVersion: v2
+    created: "2021-03-07T08:28:36.143997211Z"
     description: A Helm chart for app
     digest: 387e7b5bfd2aa07da30f4e623c045f80803d95009cf366f1ea6b7e5b8cb1c989
     name: appchart
@@ -11,7 +20,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-v4.4.0.tgz
     version: v4.4.0
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.926108022Z"
+    created: "2021-03-07T08:28:36.143650131Z"
     description: A Helm chart for app
     digest: 369cb2d354d68278ad130784852d3129a8a2ba088ebdfb57846e93b46f260205
     name: appchart
@@ -20,7 +29,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-v4.3.0.tgz
     version: v4.3.0
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.925730222Z"
+    created: "2021-03-07T08:28:36.143281016Z"
     description: A Helm chart for app
     digest: 2f34fd483c12b241bdd8c2e9f176cd6285b3c62309040d6883b83caa1f672ff2
     name: appchart
@@ -29,7 +38,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-v4.1.1.tgz
     version: v4.1.1
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.925361418Z"
+    created: "2021-03-07T08:28:36.142917484Z"
     description: A Helm chart for app
     digest: 4848798a527ecbef71eef4e2f4e52f2436ce4296279595c296a6b8ccabc95aca
     name: appchart
@@ -38,7 +47,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-v4.1.0.tgz
     version: v4.1.0
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.923970613Z"
+    created: "2021-03-07T08:28:36.142539602Z"
     description: A Helm chart for app
     digest: 937e5f0adedcc651ce13641cd37a4e814a4e959cd3ee9dfe7d3714b507fdd0a3
     name: appchart
@@ -47,7 +56,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-v4.0.0.tgz
     version: v4.0.0
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.923444923Z"
+    created: "2021-03-07T08:28:36.141007147Z"
     description: A Helm chart for app
     digest: 268467db50c6a81778f2274e42cb550dfeb77c9049e9832d20e354692d41d996
     name: appchart
@@ -56,7 +65,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-v2.0.3.tgz
     version: v2.0.3
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.921757209Z"
+    created: "2021-03-07T08:28:36.139174319Z"
     description: A Helm chart for app
     digest: 49cf12357e5783cca4afdd9245a92c33cb281a5f5efdcd94665bc2586928633b
     name: appchart
@@ -65,7 +74,7 @@ entries:
     - https://brucorreia.github.io/charts/appchart-1.0.0.tgz
     version: 1.0.0
   - apiVersion: v2
-    created: "2021-03-07T07:59:52.922817945Z"
+    created: "2021-03-07T08:28:36.140292097Z"
     description: A Helm chart for app
     digest: 49cf12357e5783cca4afdd9245a92c33cb281a5f5efdcd94665bc2586928633b
     name: appchart
@@ -73,4 +82,4 @@ entries:
     urls:
     - https://brucorreia.github.io/charts/appchart-1.0.1.tgz
     version: 1.0.0
-generated: "2021-03-07T07:59:52.920702264Z"
+generated: "2021-03-07T08:28:36.138154177Z"
